@@ -1,1 +1,8 @@
-first exam tls academy
+I learned git how developers can colloborate easy and secure way
+
+git is control version that control your activites
+
+github is online platform that you can store your projects
+
+
+commit means you can save your changes for your local 
